@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-chennuo927",
-  "commit": "952615320463e94881e2913399458346c8f0560d",
+  "commit": "0d4c109fccef235209016c6428e1452165ddf612",
   "score": 30,
   "totalScore": 110,
   "exercises": [
@@ -778,9 +778,9 @@
     }
   ],
   "student": "chennuo927",
-  "runId": "36211963287",
+  "runId": "36237105422",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
