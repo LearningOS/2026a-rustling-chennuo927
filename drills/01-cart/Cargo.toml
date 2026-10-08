@@ -1,0 +1,7 @@
+[package]
+name = "cart"
+version = "0.1.0"
+edition = "2021"
+
+# 独立 workspace，避免和上层的 rustlings 工程互相干扰
+[workspace]
