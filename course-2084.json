@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-chennuo927",
-  "commit": "031b848d5966dd2b465614b25184fc06fc722502",
-  "score": 56,
+  "commit": "4bdfcde3111025ab473bdfa50041cfdebf036684",
+  "score": 58,
   "totalScore": 110,
   "exercises": [
     {
@@ -401,16 +401,16 @@
     {
       "name": "generics1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "generics2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "traits1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "chennuo927",
-  "runId": "37781804041",
+  "runId": "37869655611",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
